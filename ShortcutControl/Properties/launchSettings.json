@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ShortcutControl (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ShortcutControl (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -26,6 +26,8 @@ namespace ShortcutControl
         public MainWindow()
         {
             InitializeComponent();
+
+            MainShortcut.Keys = ["F6"];
         }
     }
 }

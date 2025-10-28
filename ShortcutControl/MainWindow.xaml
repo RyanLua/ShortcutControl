@@ -15,6 +15,10 @@
     </Window.SystemBackdrop>
 
     <Grid>
-        <dev:Shortcut x:Name="MainShortcut" />
+        <dev:Shortcut
+            x:Name="MainShortcut"
+            IsError="False"
+            IsInfo="False"
+            IsWarning="False" />
     </Grid>
 </Window>
